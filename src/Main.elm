@@ -4,4 +4,4 @@ import Browser
 import Html exposing (h1, text)
 
 main =
-  h1 [] [ text "Docker Muestra Hello, Docker Class! Edit from github 2" ]
+  h1 [] [ text "Docker Muestra Hello ]
